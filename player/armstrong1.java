@@ -1,4 +1,4 @@
-class Alphabet{  
+class Armstrong{  
   public static void main(String[] args)  {  
     int c=0,a,temp;  
     int n=153;
